@@ -36,8 +36,13 @@ To avoid a pump and dump situation, the presale will be capped at 50 BNB, with a
 
 
 Links-
+
 Website- https://SafeMemeBeta.com
+
 Telegram- https://t.me/joinchat/xveRaKRjRfc4Mzcx
+
 Discord- https://discord.gg/3nNAWRgN
+
 White Paper- https://8cd708c0-6b62-4e60-a681-84ad6a4c355e.filesusr.com/ugd/ab3f15_af5489e3e0b840d68264824017462688.pdf
+
 Github- https://github.com/SafeMemeOfficial/SafeMeme
