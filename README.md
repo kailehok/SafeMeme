@@ -97,6 +97,6 @@ Telegram- https://t.me/safememetoken
 
 Discord- https://discord.gg/QucrEUeVSC
 
-White Paper- https://whitepaper.safememe.com
+White Paper- https://safememe.com/white-paper
 
 Github- https://github.com/SafeMemeOfficial/SafeMeme
