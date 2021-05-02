@@ -1,8 +1,4 @@
 /**
- *Submitted for verification at BscScan.com on 2021-04-16
-*/
-
-/**
      * SafeMeme - $SME - 1st BEP20 Token To Restore Trust In The Crypto Community
      * Website: https://www.safememebeta.com/ & after launch https://SafeMeme.com
      * Telegram: https://t.me/SafeMemeToken 
@@ -13,6 +9,10 @@
      * Twitter: https://twitter.com/safememetoken
      * TikTok: http://tiktok.com/@safememetoken
      */
+/**
+ *Submitted for verification at BscScan.com on 2021-04-16
+*/
+
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.2;
