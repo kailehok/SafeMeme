@@ -58,9 +58,8 @@ as it solves enormous issues that the market currently faces.
 ### Where Can I Buy SafeMeme (SME)?
 
 To avoid a pump and dump situation, the presale will be for approved whitelist applicants only; we will release a whitelist registration form on May 1st. Our goal is to support all of our early supporters on ourTelegram & Discord communities. Thanks to this plan, we will avoid having whales dump on people if/when the price rises, wallet cap cheaters, and bot activity.
-
-May 1st: https://forms.gle/smRoZ81K1KtsnWVX8
-May 4th: Pre-Sale goes live for all Whitelist approved applicants
+Whitelist Registration
+May 1st - May 5th: https://forms.gle/smRoZ81K1KtsnWVX8
 
 
 ### Presale Terms
